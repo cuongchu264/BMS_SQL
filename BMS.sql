@@ -197,15 +197,15 @@ CREATE TABLE UserCharts
 
 --carousel
 Insert Into Carousels (Caption, Text, Img, Link)
-Values(N'''',N'''','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_1.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/gach-block-lat-via-he')
+Values(N'Mang lại giải pháp tốt nhất cho ngôi nhà của bạn',N'Chuyên cung cấp Vật liệu Xây dựng và Vật liệu Trang trí Nội - Ngoại thất uy tín chuyên nghiệp hàng đầu tại khu vực Đà Nẵng, Hội An, Tam Kỳ, Quảng Nam, Quảng Ngãi, Quy Nhơn và các tỉnh Miền Trung, Tây Nguyên...','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_1.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/gach-block-lat-via-he')
 Insert Into Carousels (Caption, Text, Img, Link)
-Values(N'''',N'''','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_2.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/may-xong-hoi')
+Values(N'Đa dạng các loại hình sản phẩm',N'Sản xuất và phân phối từ Gạch, cát, đá, xi măng, sắt, thép, ống nước và phụ kiện ống nước, bồn nước, bình nước nóng, máy năng lượng lặt trời, gạch men, gạch đá trang trí, thiết bị vệ sinh, sen vòi rửa, sơn, vật liệu chống thấm, gạch block, ngói lợp, tấm lợp, thiết bị xây dựng, dụng cụ thi công, thanh kèo thép nhẹ BlueScope, thiết bị hồ bơi, xông hơi, Spa…','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_2.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/may-xong-hoi')
 Insert Into Carousels (Caption, Text, Img, Link)
-Values(N'''',N'''','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_3.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/ngoi-lop-nha')
+Values(N'Nguồn nhân lực hàng đầu',N'Sáng lập bởi các cổ đông có nhiều năm kinh nghiệm trong lĩnh vực thiết kế kiến trúc, thi công xây dựng và cung cấp VLXD & TT NNT hàng đầu tại Đà Nẵng, Hội An, Quảng Nam, Quy Nhơn và các tỉnh thành khu vực Miền Trung, Tây Nguyên.','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_3.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/ngoi-lop-nha')
 Insert Into Carousels (Caption, Text, Img, Link)
-Values(N'''',N'''','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_4.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/nha-may-san-xuat-gach-bong-gio-my-thuat-danatiles')
+Values(N'Chiến lược trở thành công ty hàng đầu trong lĩnh vực Phân phối Sỉ & Lẻ các loại vật liệu xây dựng và Trang trí Nội ngoại thất, thi công hoàn thiện công trình dân dụng và công nghiệp',N'Đặt mục tiêu lấy chất lượng, tiến độ, sự hài lòng của khách hàng làm nền tảng cho sự phát triển.','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_4.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/nha-may-san-xuat-gach-bong-gio-my-thuat-danatiles')
 Insert Into Carousels (Caption, Text, Img, Link)
-Values(N'''',N'''','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_5.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/nha-thau-tu-van-thiet-ke-thi-cong-xay-dung-ho-boi-be-boi')
+Values(N'Đáp ứng đầy đủ nhu cầu của khách hàng',N'Đội ngũ kỹ sư, công nhân của công ty luôn năng động, chuyên nghiệp sẽ làm thoả mãn tất cả những khách hàng khó tính nhất và được các chủ đầu tư đánh giá cao.','https://bizweb.dktcdn.net/100/387/417/themes/765499/assets/slider_5.jpg?1664793449068', 'https://vatlieuxaydung24h.vn/nha-thau-tu-van-thiet-ke-thi-cong-xay-dung-ho-boi-be-boi')
 
 
 --categories
