@@ -1,1 +1,1 @@
-# BMS_SQL
+# BMS_SQL for BMS projet
