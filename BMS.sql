@@ -147,7 +147,7 @@ CREATE TABLE CartDetails
 	CONSTRAINT FK_ProductId FOREIGN KEY(ProductId)
 		REFERENCES Products(ProductId)
 )
-
+--CREATE TABLE ProductReviews
 CREATE TABLE ProductReviews
 (
 	ProductReviewId int identity(1,1) PRIMARY KEY,
