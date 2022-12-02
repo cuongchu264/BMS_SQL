@@ -501,27 +501,27 @@ values (N'Tài Nguyễn - CoFounder', 'https://scontent.fdad3-4.fna.fbcdn.net/v/
  
 --chart
 insert into Charts(ChartMonth,ChartSumOfBill)
-values(N'Tháng 11 - 2021', 20)
+values(N'Tháng 10 - 2022', 20)
 insert into Charts(ChartMonth,ChartSumOfBill)
-values(N'Tháng 12 - 2021', 30)
+values(N'Tháng 11 - 2022', 30)
 insert into Charts(ChartMonth,ChartSumOfBill)
-values(N'Tháng 1 - 2022', 20)
+values(N'Tháng 12 - 2022', 20)
 
 --money chart
 insert into MoneyCharts(MoneyChartMonth,ChartSumOfMoney)
-values(N'Tháng 11 - 2021', 40)
+values(N'Tháng 10 - 2022', 40)
 insert into MoneyCharts(MoneyChartMonth,ChartSumOfMoney)
-values(N'Tháng 12 - 2021', 30)
+values(N'Tháng 11 - 2022', 30)
 insert into MoneyCharts(MoneyChartMonth,ChartSumOfMoney)
-values(N'Tháng 1 - 2022', 20)
+values(N'Tháng 12 - 2022', 20)
 
 --user chart
 insert into UserCharts(UserChartMonth,ChartSumOfUser)
-values(N'Tháng 11 - 2021', 40)
+values(N'Tháng 10 - 2022', 40)
 insert into UserCharts(UserChartMonth,ChartSumOfUser)
-values(N'Tháng 12 - 2021', 30)
+values(N'Tháng 11 - 2022', 30)
 insert into UserCharts(UserChartMonth,ChartSumOfUser)
-values(N'Tháng 1 - 2022', 20)
+values(N'Tháng 12 - 2022', 20)
 
 --trigger insert
 create trigger giamsoluong_insert
