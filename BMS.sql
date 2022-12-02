@@ -424,7 +424,7 @@ values (N'Ngói màu Ruby RD01 - Đỏ cam  ',4,25500,'https://bizweb.dktcdn.net
 
 --Brand Footer
 Insert into Brands (BrandId, BrandName, BrandDescription, BrandImg)
-values (1, N'Về chúng tôi', N'Sneaker Shop là cửa hàng chuyên cung cấp giày Sneaker nam nữ cho tất cả các bạn trẻ. Chúng tôi sẽ liên tục cập nhật những sản phẩm mới nhất, chất lượng nhất, hợp thời nhất giúp các bạn có những trải nghiệm tuyệt vời!', 'https://i.pinimg.com/originals/de/84/78/de847819dc8c0dcfea42e1f14faa5775.gif')
+values (1, N'Về chúng tôi', N'Chúng tôi đặt mục tiêu lấy chất lượng, tiến độ, sự hài lòng của khách hàng làm nền tảng cho sự phát triển.', 'https://cdn-icons-png.flaticon.com/512/4832/4832450.png')
 Insert into Brands (BrandId, BrandName, BrandDescription, BrandImg)
 values (2, N'Hệ thống cửa hàng', N'Hệ thống cửa hàng chúng tôi trải dài trên khắp Việt Nam, mang trong mình thương hiệu được khách hàng tin tưởng trong suốt nhiều năm qua cùng với những dịch vụ tận tâm nhất. ', 'https://images.unsplash.com/photo-1577208288347-b24488f3efa5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBzaG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80')
 
