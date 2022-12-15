@@ -129,6 +129,7 @@ CREATE TABLE Bills
 	DayOrder datetime DEFAULT (getdate()),
 	Total float,
 	Status nvarchar(Max),
+	Description nvarchar(Max)
 )
 
 
